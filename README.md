@@ -1,5 +1,5 @@
-![image]({![image](https://github.com/NataliTawalbehh/NataliTawalbehh/assets/162601184/370ff3a1-20a1-485e-b530-b05f7d0f3738)
-})
+![image](https://github.com/NataliTawalbehh/NataliTawalbehh/assets/162601184/ce304c89-1142-4d10-9e66-4b8e88ada605)
+
 
 # Welcome to My CitHub Profile 👋
 
