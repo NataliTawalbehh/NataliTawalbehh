@@ -62,7 +62,7 @@ Below is a summary of my skills.
 </a>
 
 <a href="https://meraki-academy-c11.slack.com/team/U06NK5NPVQW">
-<img src="	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </a>
 
 <a href="https://github.com/NataliTawalbehh">
