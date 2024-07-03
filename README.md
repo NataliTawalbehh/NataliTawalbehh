@@ -56,4 +56,15 @@ Below is a summary of my skills.
 </p>
 
 
+## 🔗 Links
+<a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://meraki-academy-c11.slack.com/team/U06NK5NPVQW">
+<img src="	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NataliTawalbehh">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
