@@ -1,4 +1,3 @@
-![image](https://github.com/NataliTawalbehh/NataliTawalbehh/assets/162601184/ce304c89-1142-4d10-9e66-4b8e88ada605){:style="width:200px;"}
 
 
 # Welcome to My CitHub Profile 👋
