@@ -1,4 +1,4 @@
-![image]({https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLcZz-ocOGxW5Nqv3vX-G_yMgV-9--efMXdw&s})
+![image]({https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjHIHvQn9xaK72Rpgb5tmve4mA-9zFNSksyg&s})
 
 # Welcome to My CitHub Profile 👋
 
