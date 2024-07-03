@@ -1,4 +1,5 @@
-![image]({https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjHIHvQn9xaK72Rpgb5tmve4mA-9zFNSksyg&s})
+![image]({![image](https://github.com/NataliTawalbehh/NataliTawalbehh/assets/162601184/370ff3a1-20a1-485e-b530-b05f7d0f3738)
+})
 
 # Welcome to My CitHub Profile 👋
 
