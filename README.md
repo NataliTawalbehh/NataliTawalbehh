@@ -63,7 +63,7 @@ Below is a summary of my skills.
 ## 💻Coding Activity
 
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=g3root&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NataliTawalbehh&show_icons=true&theme=default&title_color=505af2&text_color=474eff&bg_color=030302&hide_border=true" alt="NataliTawalbehh stats card" /></p>
 
 
 
@@ -88,3 +88,10 @@ Below is a summary of my skills.
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
+
+
+
+
+
+
+   
