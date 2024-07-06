@@ -8,20 +8,41 @@ I am a dedicated full-stack developer currently studying at Meraki Academy.
 
 Below is a summary of my skills.
 
-<a href="https://reactjs.org/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
+<a href="https://reactjs.org/" >
+<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
-<a href="https://nodejs.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
+<a href="https://nodejs.org" >
+<img align="center" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </a>
-<a href="https://expressjs.com" target="blank">
+<a href="https://expressjs.com" >
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
 </a>
-<a href="https://www.mongodb.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
+<a href="https://www.mongodb.com/" >
+<img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
+<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</a>
+<a href="https://www.npmjs.com/">
+<img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
+<a href="https://reactrouter.com/en/main">
+<img align="center" src="	https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+</a>
+<a href="https://redux.js.org/">
+<img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+</a>
+<a href="https://jwt.io/">
+<img align="center" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+</a>
+<a href="https://www.w3schools.com/css/">
+<img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</a>
+<a href="https://html.com/">
+<img align="center" src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+<a href="https://www.json.org/json-en.html">
+<img align="center" src="	https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </a>
 
 
@@ -86,6 +107,9 @@ Below is a summary of my skills.
 </a>
 <a href="https://github.com/NataliTawalbehh">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+ <a href="natali.m.tawalbeh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
 
