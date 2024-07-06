@@ -28,17 +28,7 @@ Below is a summary of my skills.
 
 
 
-### 🛠️Skills
 
--Languages: JavaScript, HTML, CSS.
-
--Frontend: React.js, Material-UI, Bootstrap, jQuery.
-
--Backend: Node.js, Express.js.
-
--Database: MongoDB.
-
--Tools: Git, GitHub, Visual Studio Code.
 
 
 
@@ -55,6 +45,18 @@ Below is a summary of my skills.
 
 - 😄 A cooperative and fun person.
 
+
+## 🛠️Skills
+
+-Languages: JavaScript, HTML, CSS.
+
+-Frontend: React.js, Material-UI, Bootstrap, jQuery.
+
+-Backend: Node.js, Express.js.
+
+-Database: MongoDB.
+
+-Tools: Git, GitHub, Visual Studio Code.
 
 
 
