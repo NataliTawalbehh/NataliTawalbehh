@@ -10,11 +10,12 @@ Below is a summary of my skills.
 
 ## 🛠️Skills
 
-Languages: JavaScript, HTML, CSS
-Frontend: React.js, Material-UI, Bootstrap, jquery
-Backend: Node.js, Express.js
-Database: MongoDB
-Tools: Git, GitHub, Visual Studio Code
+-Languages: JavaScript, HTML, CSS
+-Frontend: React.js, Material-UI, Bootstrap, jQuery
+-Backend: Node.js, Express.js
+-Database: MongoDB
+-Tools: Git, GitHub, Visual Studio Code
+
 <div>
 <a href="https://reactjs.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
