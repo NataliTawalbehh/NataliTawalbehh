@@ -78,7 +78,7 @@ Below is a summary of my skills.
 
 ## 🔗 Links
 <div>
-<a>
+<a href="https://www.linkedin.com/in/natali-mohammed/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://meraki-academy-c11.slack.com/team/U06NK5NPVQW">
