@@ -41,9 +41,7 @@ Below is a summary of my skills.
 <a href="https://www.json.org/json-en.html">
 <img align="center" src="	https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </a>
-<a href="https://expressjs.com" >
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
-</a>
+
 
 
 
