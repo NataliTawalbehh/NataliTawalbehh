@@ -14,9 +14,6 @@ Below is a summary of my skills.
 <a href="https://nodejs.org" >
 <img align="center" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </a>
-<a href="https://expressjs.com" >
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
-</a>
 <a href="https://www.mongodb.com/" >
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
@@ -43,6 +40,9 @@ Below is a summary of my skills.
 </a>
 <a href="https://www.json.org/json-en.html">
 <img align="center" src="	https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+</a>
+<a href="https://expressjs.com" >
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 </a>
 
 
