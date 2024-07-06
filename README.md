@@ -39,6 +39,7 @@ Below is a summary of my skills.
 </div
 
 
+
 ## 🚀 About Me
 
 - 👩‍💻 Currently, I am studying at Meraki Academy to develop front-end and back-end skills.
