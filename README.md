@@ -28,7 +28,7 @@ Below is a summary of my skills.
 
 
 
-## 🛠️Skills
+### 🛠️Skills
 
 -Languages: JavaScript, HTML, CSS.
 
