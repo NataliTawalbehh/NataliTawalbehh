@@ -7,7 +7,7 @@ I am a dedicated full-stack developer currently studying at Meraki Academy.
  I have a strong foundation in both frontend and backend development, with a focus on creating efficient and user-friendly web applications.
 
 Below is a summary of my skills.
-<div>
+
 <a href="https://reactjs.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
 </a>
@@ -23,7 +23,7 @@ Below is a summary of my skills.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
 </a>
-</div
+
 
 
 
